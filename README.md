@@ -269,6 +269,13 @@ u := uint(f)
 * Upper case identifier: exported (visible from other packages)
 * Lower case identifier: private (not visible from other packages)
 
+Good package names are short and clear. They are lower case, with no under_scores or mixedCaps. They are often simple nouns, such as:
+
+* time (provides functionality for measuring and displaying time)
+* list (implements a doubly linked list)
+* http (provides HTTP client and server implementations)
+
+
 ## Control structures
 
 ### If
