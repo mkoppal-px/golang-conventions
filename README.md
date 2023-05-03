@@ -1,9 +1,8 @@
-# golang-conventions
-# Go Cheat Sheet
+# GoLang Conventions
 
 # Index
 1. [Basic Syntax](#basic-syntax)
-2. [Operators](#operators)
+2. [Operators](#operators) 
     * [Arithmetic](#arithmetic)
     * [Comparison](#comparison)
     * [Logical](#logical)
